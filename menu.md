@@ -4,9 +4,10 @@
     3. Benefícios do versionamento de software
 2. Git
     1. O que é o Git?
-    2. Instalação do Git
-    3. Configurações básicas do Git
-    4. Comandos básicos do Git
+    2. Como o Git funciona?
+    3. Instalação do Git
+    4. Configurações básicas do Git
+    5. Comandos básicos do Git
 3. GitHub
     1. O que é o GitHub?
     2. Criação de um repositório no GitHub
