@@ -20,3 +20,4 @@
     3. Fluxos de trabalho
     4. Conflitos
     5. Análise do histórico de commits
+    6. Stash
